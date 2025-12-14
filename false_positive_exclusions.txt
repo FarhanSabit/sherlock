@@ -1,10 +1,9 @@
 APClips
 Archive.org
-Carbonmade
 Code Snippet Wiki
+Coders Rank
 DeviantArt
 Fandom
-Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -21,4 +20,5 @@ Weblate
 YandexMusic
 opennet
 svidbook
+threads
 xHamster
