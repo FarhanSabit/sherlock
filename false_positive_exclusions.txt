@@ -1,23 +1,25 @@
 APClips
 Archive.org
+Audiojungle
 Code Snippet Wiki
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gravatar
 Hubski
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
-opennet
 phpRU
 svidbook
-threads
