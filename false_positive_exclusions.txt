@@ -1,24 +1,19 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gravatar
 Hubski
 LushStories
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 phpRU
