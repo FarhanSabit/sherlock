@@ -1,4 +1,5 @@
 APClips
+Archive of Our Own
 Archive.org
 Code Snippet Wiki
 DeviantArt
@@ -6,14 +7,14 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
-LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
 Scribd
 SlideShare
-SpeakerDeck
 Splice
 Spotify
 Trovo
@@ -23,4 +24,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
