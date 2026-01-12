@@ -1,6 +1,6 @@
 APClips
 Archive.org
-Carbonmade
+BoardGameGeek
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -22,6 +22,6 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-xHamster
