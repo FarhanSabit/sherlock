@@ -1,23 +1,25 @@
 APClips
 Archive.org
-Chess
 Code Snippet Wiki
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+LemmyWorld
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
 Spotify
 Weblate
+YandexMusic
 mercadolivre
 opennet
 phpRU
