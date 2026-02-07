@@ -8,7 +8,7 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-OurDJTalk
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -22,7 +22,6 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
-eintracht
 mercadolivre
 opennet
 phpRU
