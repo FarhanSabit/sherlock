@@ -1,15 +1,16 @@
 APClips
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
-Cults3D
+Cracked Forum
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Itch.io
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -24,6 +25,5 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
