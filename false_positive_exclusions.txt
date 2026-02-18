@@ -8,6 +8,7 @@ Giphy
 Hubski
 LessWrong
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -25,4 +26,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
