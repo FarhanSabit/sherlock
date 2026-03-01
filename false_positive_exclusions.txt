@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Codolio
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -7,13 +8,13 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 LushStories
 Patched
 PocketStars
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
