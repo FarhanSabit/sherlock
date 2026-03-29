@@ -2,10 +2,13 @@ APClips
 Archive.org
 Codolio
 DeviantArt
+DigitalSpy
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
+LiveJournal
 LushStories
 Minecraft
 Patched
@@ -20,6 +23,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Weblate
