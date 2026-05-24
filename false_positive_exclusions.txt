@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BoardGameGeek
 Codolio
 Discord.bio
 Envato Forum
@@ -23,6 +22,7 @@ Reddit
 Replit.com
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
