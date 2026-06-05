@@ -6,33 +6,26 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cults3D
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gumroad
+GitHub
 Hashnode
 Hubski
 LushStories
-Minecraft
 Patched
 Rarible
 Realmeye
 Reddit
 Replit.com
-ReverbNation
 RocketTube
 Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
-Trovo
 TryHackMe
 Velomania
-Venmo
 Weblate
 YandexMusic
 authorSTREAM
@@ -40,7 +33,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
