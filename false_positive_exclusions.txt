@@ -6,14 +6,16 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Patched
@@ -27,7 +29,7 @@ Scribd
 SlideShare
 Splice
 Spotify
-Strava
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -40,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
