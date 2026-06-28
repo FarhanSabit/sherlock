@@ -6,13 +6,13 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CGTrader
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Houzz
 Hubski
@@ -41,7 +41,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
