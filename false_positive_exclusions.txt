@@ -16,11 +16,11 @@ Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
-LushStories
-Minecraft
 Odysee
 PCGamer
+Patched
 Pornhub
 Rarible
 Realmeye
@@ -44,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
