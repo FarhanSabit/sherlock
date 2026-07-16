@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -10,6 +9,7 @@ BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -17,13 +17,11 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-LushStories
+LinkedIn
 Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -46,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
