@@ -1,6 +1,6 @@
 7Cups
-APClips
 Airliners
+Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -9,18 +9,17 @@ Bandcamp
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+LinkedIn
 LushStories
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,10 +29,8 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
