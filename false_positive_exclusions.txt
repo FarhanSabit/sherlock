@@ -6,6 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -17,6 +18,7 @@ LessWrong
 LinkedIn
 LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -31,7 +33,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
