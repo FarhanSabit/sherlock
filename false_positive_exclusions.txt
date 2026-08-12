@@ -20,10 +20,8 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LiveJournal
-LushStories
-Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -37,6 +35,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
