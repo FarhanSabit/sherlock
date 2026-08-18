@@ -5,17 +5,16 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BoardGameGeek
+Blogger
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
@@ -23,7 +22,6 @@ Instapaper
 LinkedIn
 LushStories
 Odysee
-Outgress
 PCGamer
 Patched
 Rarible
@@ -36,14 +34,13 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 hunting
 igromania
 interpals
