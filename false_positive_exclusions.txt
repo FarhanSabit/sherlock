@@ -4,13 +4,12 @@ Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
+BabyRu
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -21,6 +20,7 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Mamot
 Odysee
 PCGamer
 Patched
@@ -34,8 +34,10 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
