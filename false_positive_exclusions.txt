@@ -5,17 +5,17 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
+Championat
 Chatujme.cz
-Chess
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
+Gumroad
 Hashnode
 Houzz
 Hubski
@@ -30,7 +30,6 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
