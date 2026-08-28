@@ -8,14 +8,12 @@ Bandcamp
 Championat
 Chatujme.cz
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-Gumroad
 Hashnode
 Houzz
 Hubski
@@ -34,7 +32,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
