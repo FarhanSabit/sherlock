@@ -1,10 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+BoardGameGeek
 Championat
 Chatujme.cz
 ChaturBate
@@ -21,7 +23,9 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -48,5 +52,4 @@ igromania
 interpals
 mercadolivre
 opennet
-phpRU
 svidbook
