@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -41,7 +40,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Valorant Forums
 Velomania
 Weblate
 YandexMusic
