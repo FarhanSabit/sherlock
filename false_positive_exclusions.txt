@@ -11,7 +11,6 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -28,6 +27,7 @@ LushStories
 Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -39,6 +39,8 @@ Scribd
 SlideShare
 Splice
 Spotify
+Tenor
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -55,3 +57,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
