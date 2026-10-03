@@ -24,10 +24,8 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -39,12 +37,12 @@ Scribd
 SlideShare
 Splice
 Spotify
-Tenor
 Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -57,4 +55,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
