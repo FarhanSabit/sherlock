@@ -11,9 +11,11 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
+GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
@@ -24,6 +26,7 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -37,12 +40,10 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -55,3 +56,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
