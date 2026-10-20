@@ -9,10 +9,11 @@ Blogger
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
+DEV Community
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -22,15 +23,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LinkedIn
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -40,7 +38,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Tenor
 Trakt
 TryHackMe
 Velomania
