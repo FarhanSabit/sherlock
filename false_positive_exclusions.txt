@@ -4,6 +4,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -20,6 +21,8 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+LiveJournal
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -32,8 +35,8 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
@@ -42,6 +45,7 @@ fixya
 hunting
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
