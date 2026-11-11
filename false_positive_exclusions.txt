@@ -1,7 +1,11 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
+CTAN
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -15,7 +19,6 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -23,7 +26,7 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RuneScape
+RocketTube
 Scribd
 SlideShare
 Splice
@@ -43,3 +46,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
